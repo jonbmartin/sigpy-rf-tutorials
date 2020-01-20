@@ -1,2 +1,2 @@
 # sigpy-rf-tutorials
-Collection of tutorial information and demonstrations for the sigpy-rf toolbox
+A collection of tutorial information and application examples for the sigpy-rf software package, an extension of the SigPy software package. 
